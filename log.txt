@@ -1,0 +1,33 @@
+2025-12-12 17:17:47 UTC
+Windows-10-10.0.19045-SP0
+Ren'Py 8.5.0.25111603
+
+Doki Doki Literature Club!
+1.3.6.1
+Built at 2025-12-12 05:27:01 UTC
+
+Early init took 92 ms
+Loading error handling took 147 ms
+Loading script took 1919 ms
+Loading save slot metadata took 36 ms
+Loading persistent took 0 ms
+Set script version to: (8, 4, 1)
+Running init code took 265 ms
+Loading analysis data took 0 ms
+Analyze and compile ATL took 357 ms
+Reloading save slot metadata took 5 ms
+Dump and make backups took 79 ms
+Cleaning cache took 0 ms
+Making clean stores took 1 ms
+Initial gc took 81 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 2 ms
+Init translation took 2 ms
+Cleaning stores took 0 ms
+Load screen analysis took 0 ms
+Analyze screens took 54 ms
+Save screen analysis took 27 ms
+Save pyanalysis took 37 ms
+Save bytecode took 0 ms

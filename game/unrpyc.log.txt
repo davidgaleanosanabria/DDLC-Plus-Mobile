@@ -1,0 +1,113 @@
+Beginning decompiling
+
+Decompiled C:\Games\DDLC Plus Mobile\game\01autofocus.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\01shorthand.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\cgs.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\console.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\contentwarnings.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\credits.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\definitions-plus.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\definitions.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\desktop-files.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\desktop-gallery.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\desktop-mail.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\desktop-music.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\desktop-screens.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\desktop-settings.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\desktop-side-stories.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\effects.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\epilogue.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\glitchtext.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\gui.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\nm.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\ny.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\options.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\pluscredits.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\poems.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\poems_special.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\screens.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch0.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch1.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch10.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch2.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch20.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch21.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch22.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch23.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch3.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch30.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch4.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch40.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-ch5.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-exclusives-natsuki.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-exclusives-sayori.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-exclusives-yuri.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-exclusives2-natsuki.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-exclusives2-yuri.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-poemgame.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-poemresponses.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script-poemresponses2.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\script.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\sm.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\sn.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\splash.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\sy.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\test-vm.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\transforms.rpyc
+
+Decompiled C:\Games\DDLC Plus Mobile\game\ym.rpyc
+
+end decompiling

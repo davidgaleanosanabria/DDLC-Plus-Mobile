@@ -1,0 +1,1366 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/tl/chinese_simplified/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified cw_example_skip_f4d286a9:
+                                                          ^
+
+File "game/tl/chinese_simplified/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified epilogue_90de9c4d:
+                                                   ^
+
+File "game/tl/chinese_simplified/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified nm1_949d7aa7:
+                                              ^
+
+File "game/tl/chinese_simplified/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ny1_a1652fd5:
+                                              ^
+
+File "game/tl/chinese_simplified/script.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified playthrough2_b23f6c03:
+                                                       ^
+
+File "game/tl/chinese_simplified/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch0_main_41e273ca:
+                                                   ^
+
+File "game/tl/chinese_simplified/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch1_main_0f077782:
+                                                   ^
+
+File "game/tl/chinese_simplified/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch10_main_b0520ba4:
+                                                    ^
+
+File "game/tl/chinese_simplified/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch2_main_6ae8eabb:
+                                                   ^
+
+File "game/tl/chinese_simplified/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch20_main2_b68875d5:
+                                                     ^
+
+File "game/tl/chinese_simplified/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch21_main_0f077782:
+                                                    ^
+
+File "game/tl/chinese_simplified/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch22_main_6ae8eabb:
+                                                    ^
+
+File "game/tl/chinese_simplified/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch23_main_7050b825:
+                                                    ^
+
+File "game/tl/chinese_simplified/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch3_main_9f4a56c4:
+                                                   ^
+
+File "game/tl/chinese_simplified/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch30_noskip_23f35f95:
+                                                      ^
+
+File "game/tl/chinese_simplified/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch4_main_7f03563e:
+                                                   ^
+
+File "game/tl/chinese_simplified/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch40_main_b68875d5:
+                                                    ^
+
+File "game/tl/chinese_simplified/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch5_main_291cd73e:
+                                                   ^
+
+File "game/tl/chinese_simplified/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified natsuki_exclusive_1_f5f51468:
+                                                              ^
+
+File "game/tl/chinese_simplified/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified sayori_exclusive_1_ebd278f3:
+                                                             ^
+
+File "game/tl/chinese_simplified/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified yuri_exclusive_1_e440bb66:
+                                                           ^
+
+File "game/tl/chinese_simplified/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified natsuki_exclusive2_1_f5f51468:
+                                                               ^
+
+File "game/tl/chinese_simplified/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified yuri_exclusive2_1_e440bb66:
+                                                            ^
+
+File "game/tl/chinese_simplified/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified poemresponse_start2_aa080a54:
+                                                              ^
+
+File "game/tl/chinese_simplified/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ch22_y_end_709da3c5:
+                                                     ^
+
+File "game/tl/chinese_simplified/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified s1_main_a0ad62e3:
+                                                  ^
+
+File "game/tl/chinese_simplified/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified sm1_90de9c4d:
+                                              ^
+
+File "game/tl/chinese_simplified/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified sn1_d9483336:
+                                              ^
+
+File "game/tl/chinese_simplified/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified DDLC_splashscreen_f490803a:
+                                                            ^
+
+File "game/tl/chinese_simplified/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified sy1_035ba6dc:
+                                              ^
+
+File "game/tl/chinese_simplified/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_simplified ym1_e09c4d73:
+                                              ^
+
+File "game/tl/chinese_traditional/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional cw_example_skip_f4d286a9:
+                                                           ^
+
+File "game/tl/chinese_traditional/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional epilogue_90de9c4d:
+                                                    ^
+
+File "game/tl/chinese_traditional/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional nm1_949d7aa7:
+                                               ^
+
+File "game/tl/chinese_traditional/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ny1_a1652fd5:
+                                               ^
+
+File "game/tl/chinese_traditional/script.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional playthrough2_b23f6c03:
+                                                        ^
+
+File "game/tl/chinese_traditional/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch0_main_41e273ca:
+                                                    ^
+
+File "game/tl/chinese_traditional/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch1_main_0f077782:
+                                                    ^
+
+File "game/tl/chinese_traditional/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch10_main_b0520ba4:
+                                                     ^
+
+File "game/tl/chinese_traditional/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch2_main_6ae8eabb:
+                                                    ^
+
+File "game/tl/chinese_traditional/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch20_main2_b68875d5:
+                                                      ^
+
+File "game/tl/chinese_traditional/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch21_main_0f077782:
+                                                     ^
+
+File "game/tl/chinese_traditional/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch22_main_6ae8eabb:
+                                                     ^
+
+File "game/tl/chinese_traditional/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch23_main_7050b825:
+                                                     ^
+
+File "game/tl/chinese_traditional/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch3_main_9f4a56c4:
+                                                    ^
+
+File "game/tl/chinese_traditional/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch30_noskip_23f35f95:
+                                                       ^
+
+File "game/tl/chinese_traditional/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch4_main_7f03563e:
+                                                    ^
+
+File "game/tl/chinese_traditional/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch40_main_b68875d5:
+                                                     ^
+
+File "game/tl/chinese_traditional/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch5_main_291cd73e:
+                                                    ^
+
+File "game/tl/chinese_traditional/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional natsuki_exclusive_1_f5f51468:
+                                                               ^
+
+File "game/tl/chinese_traditional/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional sayori_exclusive_1_ebd278f3:
+                                                              ^
+
+File "game/tl/chinese_traditional/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional yuri_exclusive_1_e440bb66:
+                                                            ^
+
+File "game/tl/chinese_traditional/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional natsuki_exclusive2_1_f5f51468:
+                                                                ^
+
+File "game/tl/chinese_traditional/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional yuri_exclusive2_1_e440bb66:
+                                                             ^
+
+File "game/tl/chinese_traditional/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional poemresponse_start2_aa080a54:
+                                                               ^
+
+File "game/tl/chinese_traditional/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ch22_y_end_709da3c5:
+                                                      ^
+
+File "game/tl/chinese_traditional/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional s1_main_a0ad62e3:
+                                                   ^
+
+File "game/tl/chinese_traditional/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional sm1_90de9c4d:
+                                               ^
+
+File "game/tl/chinese_traditional/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional sn1_d9483336:
+                                               ^
+
+File "game/tl/chinese_traditional/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional DDLC_splashscreen_f490803a:
+                                                             ^
+
+File "game/tl/chinese_traditional/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional sy1_035ba6dc:
+                                               ^
+
+File "game/tl/chinese_traditional/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate chinese_traditional ym1_e09c4d73:
+                                               ^
+
+File "game/tl/french/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate french cw_example_skip_f4d286a9:
+                                              ^
+
+File "game/tl/french/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate french epilogue_90de9c4d:
+                                       ^
+
+File "game/tl/french/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate french nm1_949d7aa7:
+                                  ^
+
+File "game/tl/french/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate french ny1_a1652fd5:
+                                  ^
+
+File "game/tl/french/script.rpy", line 4: translate statement expects a non-empty block.
+    translate french playthrough2_b23f6c03:
+                                           ^
+
+File "game/tl/french/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch0_main_41e273ca:
+                                       ^
+
+File "game/tl/french/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch1_main_0f077782:
+                                       ^
+
+File "game/tl/french/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch10_main_b0520ba4:
+                                        ^
+
+File "game/tl/french/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch2_main_6ae8eabb:
+                                       ^
+
+File "game/tl/french/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch20_main2_b68875d5:
+                                         ^
+
+File "game/tl/french/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch21_main_0f077782:
+                                        ^
+
+File "game/tl/french/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch22_main_6ae8eabb:
+                                        ^
+
+File "game/tl/french/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch23_main_7050b825:
+                                        ^
+
+File "game/tl/french/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch3_main_9f4a56c4:
+                                       ^
+
+File "game/tl/french/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch30_noskip_23f35f95:
+                                          ^
+
+File "game/tl/french/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch4_main_7f03563e:
+                                       ^
+
+File "game/tl/french/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch40_main_b68875d5:
+                                        ^
+
+File "game/tl/french/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch5_main_291cd73e:
+                                       ^
+
+File "game/tl/french/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate french natsuki_exclusive_1_f5f51468:
+                                                  ^
+
+File "game/tl/french/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate french sayori_exclusive_1_ebd278f3:
+                                                 ^
+
+File "game/tl/french/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate french yuri_exclusive_1_e440bb66:
+                                               ^
+
+File "game/tl/french/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate french natsuki_exclusive2_1_f5f51468:
+                                                   ^
+
+File "game/tl/french/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate french yuri_exclusive2_1_e440bb66:
+                                                ^
+
+File "game/tl/french/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate french poemresponse_start2_aa080a54:
+                                                  ^
+
+File "game/tl/french/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate french ch22_y_end_709da3c5:
+                                         ^
+
+File "game/tl/french/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate french s1_main_a0ad62e3:
+                                      ^
+
+File "game/tl/french/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate french sm1_90de9c4d:
+                                  ^
+
+File "game/tl/french/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate french sn1_d9483336:
+                                  ^
+
+File "game/tl/french/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate french DDLC_splashscreen_f490803a:
+                                                ^
+
+File "game/tl/french/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate french sy1_035ba6dc:
+                                  ^
+
+File "game/tl/french/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate french ym1_e09c4d73:
+                                  ^
+
+File "game/tl/german/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate german cw_example_skip_f4d286a9:
+                                              ^
+
+File "game/tl/german/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate german epilogue_90de9c4d:
+                                       ^
+
+File "game/tl/german/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate german nm1_949d7aa7:
+                                  ^
+
+File "game/tl/german/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate german ny1_a1652fd5:
+                                  ^
+
+File "game/tl/german/script.rpy", line 4: translate statement expects a non-empty block.
+    translate german playthrough2_b23f6c03:
+                                           ^
+
+File "game/tl/german/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch0_main_41e273ca:
+                                       ^
+
+File "game/tl/german/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch1_main_0f077782:
+                                       ^
+
+File "game/tl/german/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch10_main_b0520ba4:
+                                        ^
+
+File "game/tl/german/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch2_main_6ae8eabb:
+                                       ^
+
+File "game/tl/german/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch20_main2_b68875d5:
+                                         ^
+
+File "game/tl/german/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch21_main_0f077782:
+                                        ^
+
+File "game/tl/german/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch22_main_6ae8eabb:
+                                        ^
+
+File "game/tl/german/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch23_main_7050b825:
+                                        ^
+
+File "game/tl/german/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch3_main_9f4a56c4:
+                                       ^
+
+File "game/tl/german/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch30_noskip_23f35f95:
+                                          ^
+
+File "game/tl/german/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch4_main_7f03563e:
+                                       ^
+
+File "game/tl/german/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch40_main_b68875d5:
+                                        ^
+
+File "game/tl/german/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch5_main_291cd73e:
+                                       ^
+
+File "game/tl/german/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate german natsuki_exclusive_1_f5f51468:
+                                                  ^
+
+File "game/tl/german/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate german sayori_exclusive_1_ebd278f3:
+                                                 ^
+
+File "game/tl/german/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate german yuri_exclusive_1_e440bb66:
+                                               ^
+
+File "game/tl/german/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate german natsuki_exclusive2_1_f5f51468:
+                                                   ^
+
+File "game/tl/german/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate german yuri_exclusive2_1_e440bb66:
+                                                ^
+
+File "game/tl/german/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate german poemresponse_start2_aa080a54:
+                                                  ^
+
+File "game/tl/german/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate german ch22_y_end_709da3c5:
+                                         ^
+
+File "game/tl/german/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate german s1_main_a0ad62e3:
+                                      ^
+
+File "game/tl/german/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate german sm1_90de9c4d:
+                                  ^
+
+File "game/tl/german/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate german sn1_d9483336:
+                                  ^
+
+File "game/tl/german/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate german sy1_035ba6dc:
+                                  ^
+
+File "game/tl/german/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate german ym1_e09c4d73:
+                                  ^
+
+File "game/tl/italian/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate italian cw_example_skip_f4d286a9:
+                                               ^
+
+File "game/tl/italian/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate italian epilogue_90de9c4d:
+                                        ^
+
+File "game/tl/italian/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate italian nm1_949d7aa7:
+                                   ^
+
+File "game/tl/italian/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ny1_a1652fd5:
+                                   ^
+
+File "game/tl/italian/script.rpy", line 4: translate statement expects a non-empty block.
+    translate italian playthrough2_b23f6c03:
+                                            ^
+
+File "game/tl/italian/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch0_main_41e273ca:
+                                        ^
+
+File "game/tl/italian/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch1_main_0f077782:
+                                        ^
+
+File "game/tl/italian/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch10_main_b0520ba4:
+                                         ^
+
+File "game/tl/italian/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch2_main_6ae8eabb:
+                                        ^
+
+File "game/tl/italian/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch20_main2_b68875d5:
+                                          ^
+
+File "game/tl/italian/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch21_main_0f077782:
+                                         ^
+
+File "game/tl/italian/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch22_main_6ae8eabb:
+                                         ^
+
+File "game/tl/italian/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch23_main_7050b825:
+                                         ^
+
+File "game/tl/italian/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch3_main_9f4a56c4:
+                                        ^
+
+File "game/tl/italian/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch30_noskip_23f35f95:
+                                           ^
+
+File "game/tl/italian/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch4_main_7f03563e:
+                                        ^
+
+File "game/tl/italian/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch40_main_b68875d5:
+                                         ^
+
+File "game/tl/italian/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch5_main_291cd73e:
+                                        ^
+
+File "game/tl/italian/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate italian natsuki_exclusive_1_f5f51468:
+                                                   ^
+
+File "game/tl/italian/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate italian sayori_exclusive_1_ebd278f3:
+                                                  ^
+
+File "game/tl/italian/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate italian yuri_exclusive_1_e440bb66:
+                                                ^
+
+File "game/tl/italian/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate italian natsuki_exclusive2_1_f5f51468:
+                                                    ^
+
+File "game/tl/italian/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate italian yuri_exclusive2_1_e440bb66:
+                                                 ^
+
+File "game/tl/italian/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate italian poemresponse_start2_aa080a54:
+                                                   ^
+
+File "game/tl/italian/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ch22_y_end_709da3c5:
+                                          ^
+
+File "game/tl/italian/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate italian s1_main_a0ad62e3:
+                                       ^
+
+File "game/tl/italian/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate italian sm1_90de9c4d:
+                                   ^
+
+File "game/tl/italian/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate italian sn1_d9483336:
+                                   ^
+
+File "game/tl/italian/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate italian DDLC_splashscreen_f490803a:
+                                                 ^
+
+File "game/tl/italian/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate italian sy1_035ba6dc:
+                                   ^
+
+File "game/tl/italian/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate italian ym1_e09c4d73:
+                                   ^
+
+File "game/tl/japanese/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese cw_example_skip_f4d286a9:
+                                                ^
+
+File "game/tl/japanese/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese epilogue_90de9c4d:
+                                         ^
+
+File "game/tl/japanese/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese nm1_949d7aa7:
+                                    ^
+
+File "game/tl/japanese/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ny1_a1652fd5:
+                                    ^
+
+File "game/tl/japanese/script.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese playthrough2_b23f6c03:
+                                             ^
+
+File "game/tl/japanese/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch0_main_41e273ca:
+                                         ^
+
+File "game/tl/japanese/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch1_main_0f077782:
+                                         ^
+
+File "game/tl/japanese/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch10_main_b0520ba4:
+                                          ^
+
+File "game/tl/japanese/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch2_main_6ae8eabb:
+                                         ^
+
+File "game/tl/japanese/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch20_main2_b68875d5:
+                                           ^
+
+File "game/tl/japanese/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch21_main_0f077782:
+                                          ^
+
+File "game/tl/japanese/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch22_main_6ae8eabb:
+                                          ^
+
+File "game/tl/japanese/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch23_main_7050b825:
+                                          ^
+
+File "game/tl/japanese/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch3_main_9f4a56c4:
+                                         ^
+
+File "game/tl/japanese/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch30_noskip_23f35f95:
+                                            ^
+
+File "game/tl/japanese/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch4_main_7f03563e:
+                                         ^
+
+File "game/tl/japanese/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch40_main_b68875d5:
+                                          ^
+
+File "game/tl/japanese/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch5_main_291cd73e:
+                                         ^
+
+File "game/tl/japanese/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese natsuki_exclusive_1_f5f51468:
+                                                    ^
+
+File "game/tl/japanese/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese sayori_exclusive_1_ebd278f3:
+                                                   ^
+
+File "game/tl/japanese/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese yuri_exclusive_1_e440bb66:
+                                                 ^
+
+File "game/tl/japanese/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese natsuki_exclusive2_1_f5f51468:
+                                                     ^
+
+File "game/tl/japanese/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese yuri_exclusive2_1_e440bb66:
+                                                  ^
+
+File "game/tl/japanese/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese poemresponse_start2_aa080a54:
+                                                    ^
+
+File "game/tl/japanese/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ch22_y_end_709da3c5:
+                                           ^
+
+File "game/tl/japanese/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese s1_main_a0ad62e3:
+                                        ^
+
+File "game/tl/japanese/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese sm1_90de9c4d:
+                                    ^
+
+File "game/tl/japanese/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese sn1_d9483336:
+                                    ^
+
+File "game/tl/japanese/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese DDLC_splashscreen_f490803a:
+                                                  ^
+
+File "game/tl/japanese/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese sy1_035ba6dc:
+                                    ^
+
+File "game/tl/japanese/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate japanese ym1_e09c4d73:
+                                    ^
+
+File "game/tl/korean/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate korean cw_example_skip_f4d286a9:
+                                              ^
+
+File "game/tl/korean/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate korean epilogue_90de9c4d:
+                                       ^
+
+File "game/tl/korean/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate korean nm1_949d7aa7:
+                                  ^
+
+File "game/tl/korean/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ny1_a1652fd5:
+                                  ^
+
+File "game/tl/korean/script.rpy", line 4: translate statement expects a non-empty block.
+    translate korean playthrough2_b23f6c03:
+                                           ^
+
+File "game/tl/korean/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch0_main_41e273ca:
+                                       ^
+
+File "game/tl/korean/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch1_main_0f077782:
+                                       ^
+
+File "game/tl/korean/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch10_main_b0520ba4:
+                                        ^
+
+File "game/tl/korean/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch2_main_6ae8eabb:
+                                       ^
+
+File "game/tl/korean/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch20_main2_b68875d5:
+                                         ^
+
+File "game/tl/korean/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch21_main_0f077782:
+                                        ^
+
+File "game/tl/korean/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch22_main_6ae8eabb:
+                                        ^
+
+File "game/tl/korean/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch23_main_7050b825:
+                                        ^
+
+File "game/tl/korean/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch3_main_9f4a56c4:
+                                       ^
+
+File "game/tl/korean/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch30_noskip_23f35f95:
+                                          ^
+
+File "game/tl/korean/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch4_main_7f03563e:
+                                       ^
+
+File "game/tl/korean/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch40_main_b68875d5:
+                                        ^
+
+File "game/tl/korean/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch5_main_291cd73e:
+                                       ^
+
+File "game/tl/korean/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate korean natsuki_exclusive_1_f5f51468:
+                                                  ^
+
+File "game/tl/korean/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate korean sayori_exclusive_1_ebd278f3:
+                                                 ^
+
+File "game/tl/korean/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate korean yuri_exclusive_1_e440bb66:
+                                               ^
+
+File "game/tl/korean/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate korean natsuki_exclusive2_1_f5f51468:
+                                                   ^
+
+File "game/tl/korean/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate korean yuri_exclusive2_1_e440bb66:
+                                                ^
+
+File "game/tl/korean/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate korean poemresponse_start2_aa080a54:
+                                                  ^
+
+File "game/tl/korean/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ch22_y_end_709da3c5:
+                                         ^
+
+File "game/tl/korean/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate korean s1_main_a0ad62e3:
+                                      ^
+
+File "game/tl/korean/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate korean sm1_90de9c4d:
+                                  ^
+
+File "game/tl/korean/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate korean sn1_d9483336:
+                                  ^
+
+File "game/tl/korean/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate korean DDLC_splashscreen_f490803a:
+                                                ^
+
+File "game/tl/korean/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate korean sy1_035ba6dc:
+                                  ^
+
+File "game/tl/korean/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate korean ym1_e09c4d73:
+                                  ^
+
+File "game/tl/portuguese/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese cw_example_skip_f4d286a9:
+                                                  ^
+
+File "game/tl/portuguese/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese epilogue_90de9c4d:
+                                           ^
+
+File "game/tl/portuguese/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese nm1_949d7aa7:
+                                      ^
+
+File "game/tl/portuguese/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ny1_a1652fd5:
+                                      ^
+
+File "game/tl/portuguese/script.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese playthrough2_b23f6c03:
+                                               ^
+
+File "game/tl/portuguese/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch0_main_41e273ca:
+                                           ^
+
+File "game/tl/portuguese/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch1_main_0f077782:
+                                           ^
+
+File "game/tl/portuguese/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch10_main_b0520ba4:
+                                            ^
+
+File "game/tl/portuguese/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch2_main_6ae8eabb:
+                                           ^
+
+File "game/tl/portuguese/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch20_main2_b68875d5:
+                                             ^
+
+File "game/tl/portuguese/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch21_main_0f077782:
+                                            ^
+
+File "game/tl/portuguese/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch22_main_6ae8eabb:
+                                            ^
+
+File "game/tl/portuguese/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch23_main_7050b825:
+                                            ^
+
+File "game/tl/portuguese/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch3_main_9f4a56c4:
+                                           ^
+
+File "game/tl/portuguese/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch30_noskip_23f35f95:
+                                              ^
+
+File "game/tl/portuguese/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch4_main_7f03563e:
+                                           ^
+
+File "game/tl/portuguese/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch40_main_b68875d5:
+                                            ^
+
+File "game/tl/portuguese/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch5_main_291cd73e:
+                                           ^
+
+File "game/tl/portuguese/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese natsuki_exclusive_1_f5f51468:
+                                                      ^
+
+File "game/tl/portuguese/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese sayori_exclusive_1_ebd278f3:
+                                                     ^
+
+File "game/tl/portuguese/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese yuri_exclusive_1_e440bb66:
+                                                   ^
+
+File "game/tl/portuguese/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese natsuki_exclusive2_1_f5f51468:
+                                                       ^
+
+File "game/tl/portuguese/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese yuri_exclusive2_1_e440bb66:
+                                                    ^
+
+File "game/tl/portuguese/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese poemresponse_start2_aa080a54:
+                                                      ^
+
+File "game/tl/portuguese/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ch22_y_end_709da3c5:
+                                             ^
+
+File "game/tl/portuguese/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese s1_main_a0ad62e3:
+                                          ^
+
+File "game/tl/portuguese/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese sm1_90de9c4d:
+                                      ^
+
+File "game/tl/portuguese/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese sn1_d9483336:
+                                      ^
+
+File "game/tl/portuguese/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese DDLC_splashscreen_f490803a:
+                                                    ^
+
+File "game/tl/portuguese/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese sy1_035ba6dc:
+                                      ^
+
+File "game/tl/portuguese/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate portuguese ym1_e09c4d73:
+                                      ^
+
+File "game/tl/russian/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate russian cw_example_skip_f4d286a9:
+                                               ^
+
+File "game/tl/russian/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate russian epilogue_90de9c4d:
+                                        ^
+
+File "game/tl/russian/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate russian nm1_949d7aa7:
+                                   ^
+
+File "game/tl/russian/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ny1_a1652fd5:
+                                   ^
+
+File "game/tl/russian/script.rpy", line 4: translate statement expects a non-empty block.
+    translate russian playthrough2_b23f6c03:
+                                            ^
+
+File "game/tl/russian/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch0_main_41e273ca:
+                                        ^
+
+File "game/tl/russian/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch1_main_0f077782:
+                                        ^
+
+File "game/tl/russian/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch10_main_b0520ba4:
+                                         ^
+
+File "game/tl/russian/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch2_main_6ae8eabb:
+                                        ^
+
+File "game/tl/russian/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch20_main2_b68875d5:
+                                          ^
+
+File "game/tl/russian/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch21_main_0f077782:
+                                         ^
+
+File "game/tl/russian/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch22_main_6ae8eabb:
+                                         ^
+
+File "game/tl/russian/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch23_main_7050b825:
+                                         ^
+
+File "game/tl/russian/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch3_main_9f4a56c4:
+                                        ^
+
+File "game/tl/russian/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch30_noskip_23f35f95:
+                                           ^
+
+File "game/tl/russian/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch4_main_7f03563e:
+                                        ^
+
+File "game/tl/russian/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch40_main_b68875d5:
+                                         ^
+
+File "game/tl/russian/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch5_main_291cd73e:
+                                        ^
+
+File "game/tl/russian/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate russian natsuki_exclusive_1_f5f51468:
+                                                   ^
+
+File "game/tl/russian/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate russian sayori_exclusive_1_ebd278f3:
+                                                  ^
+
+File "game/tl/russian/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate russian yuri_exclusive_1_e440bb66:
+                                                ^
+
+File "game/tl/russian/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate russian natsuki_exclusive2_1_f5f51468:
+                                                    ^
+
+File "game/tl/russian/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate russian yuri_exclusive2_1_e440bb66:
+                                                 ^
+
+File "game/tl/russian/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate russian poemresponse_start2_aa080a54:
+                                                   ^
+
+File "game/tl/russian/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ch22_y_end_709da3c5:
+                                          ^
+
+File "game/tl/russian/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate russian s1_main_a0ad62e3:
+                                       ^
+
+File "game/tl/russian/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate russian sm1_90de9c4d:
+                                   ^
+
+File "game/tl/russian/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate russian sn1_d9483336:
+                                   ^
+
+File "game/tl/russian/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate russian DDLC_splashscreen_f490803a:
+                                                 ^
+
+File "game/tl/russian/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate russian sy1_035ba6dc:
+                                   ^
+
+File "game/tl/russian/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate russian ym1_e09c4d73:
+                                   ^
+
+File "game/tl/spanish/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish cw_example_skip_f4d286a9:
+                                               ^
+
+File "game/tl/spanish/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish epilogue_90de9c4d:
+                                        ^
+
+File "game/tl/spanish/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish nm1_949d7aa7:
+                                   ^
+
+File "game/tl/spanish/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ny1_a1652fd5:
+                                   ^
+
+File "game/tl/spanish/script.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish playthrough2_b23f6c03:
+                                            ^
+
+File "game/tl/spanish/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch0_main_41e273ca:
+                                        ^
+
+File "game/tl/spanish/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch1_main_0f077782:
+                                        ^
+
+File "game/tl/spanish/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch10_main_b0520ba4:
+                                         ^
+
+File "game/tl/spanish/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch2_main_6ae8eabb:
+                                        ^
+
+File "game/tl/spanish/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch20_main2_b68875d5:
+                                          ^
+
+File "game/tl/spanish/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch21_main_0f077782:
+                                         ^
+
+File "game/tl/spanish/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch22_main_6ae8eabb:
+                                         ^
+
+File "game/tl/spanish/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch23_main_7050b825:
+                                         ^
+
+File "game/tl/spanish/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch3_main_9f4a56c4:
+                                        ^
+
+File "game/tl/spanish/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch30_noskip_23f35f95:
+                                           ^
+
+File "game/tl/spanish/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch4_main_7f03563e:
+                                        ^
+
+File "game/tl/spanish/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch40_main_b68875d5:
+                                         ^
+
+File "game/tl/spanish/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch5_main_291cd73e:
+                                        ^
+
+File "game/tl/spanish/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish natsuki_exclusive_1_f5f51468:
+                                                   ^
+
+File "game/tl/spanish/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish sayori_exclusive_1_ebd278f3:
+                                                  ^
+
+File "game/tl/spanish/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish yuri_exclusive_1_e440bb66:
+                                                ^
+
+File "game/tl/spanish/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish natsuki_exclusive2_1_f5f51468:
+                                                    ^
+
+File "game/tl/spanish/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish yuri_exclusive2_1_e440bb66:
+                                                 ^
+
+File "game/tl/spanish/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish poemresponse_start2_aa080a54:
+                                                   ^
+
+File "game/tl/spanish/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ch22_y_end_709da3c5:
+                                          ^
+
+File "game/tl/spanish/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish s1_main_a0ad62e3:
+                                       ^
+
+File "game/tl/spanish/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish sm1_90de9c4d:
+                                   ^
+
+File "game/tl/spanish/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish sn1_d9483336:
+                                   ^
+
+File "game/tl/spanish/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish DDLC_splashscreen_f490803a:
+                                                 ^
+
+File "game/tl/spanish/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish sy1_035ba6dc:
+                                   ^
+
+File "game/tl/spanish/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish ym1_e09c4d73:
+                                   ^
+
+File "game/tl/spanish_latin_america/contentwarnings.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america cw_example_skip_f4d286a9:
+                                                             ^
+
+File "game/tl/spanish_latin_america/epilogue.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america epilogue_90de9c4d:
+                                                      ^
+
+File "game/tl/spanish_latin_america/nm.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america nm1_949d7aa7:
+                                                 ^
+
+File "game/tl/spanish_latin_america/ny.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ny1_a1652fd5:
+                                                 ^
+
+File "game/tl/spanish_latin_america/script.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america playthrough2_b23f6c03:
+                                                          ^
+
+File "game/tl/spanish_latin_america/script-ch0.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch0_main_41e273ca:
+                                                      ^
+
+File "game/tl/spanish_latin_america/script-ch1.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch1_main_0f077782:
+                                                      ^
+
+File "game/tl/spanish_latin_america/script-ch10.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch10_main_b0520ba4:
+                                                       ^
+
+File "game/tl/spanish_latin_america/script-ch2.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch2_main_6ae8eabb:
+                                                      ^
+
+File "game/tl/spanish_latin_america/script-ch20.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch20_main2_b68875d5:
+                                                        ^
+
+File "game/tl/spanish_latin_america/script-ch21.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch21_main_0f077782:
+                                                       ^
+
+File "game/tl/spanish_latin_america/script-ch22.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch22_main_6ae8eabb:
+                                                       ^
+
+File "game/tl/spanish_latin_america/script-ch23.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch23_main_7050b825:
+                                                       ^
+
+File "game/tl/spanish_latin_america/script-ch3.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch3_main_9f4a56c4:
+                                                      ^
+
+File "game/tl/spanish_latin_america/script-ch30.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch30_noskip_23f35f95:
+                                                         ^
+
+File "game/tl/spanish_latin_america/script-ch4.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch4_main_7f03563e:
+                                                      ^
+
+File "game/tl/spanish_latin_america/script-ch40.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch40_main_b68875d5:
+                                                       ^
+
+File "game/tl/spanish_latin_america/script-ch5.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch5_main_291cd73e:
+                                                      ^
+
+File "game/tl/spanish_latin_america/script-exclusives-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america natsuki_exclusive_1_f5f51468:
+                                                                 ^
+
+File "game/tl/spanish_latin_america/script-exclusives-sayori.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america sayori_exclusive_1_ebd278f3:
+                                                                ^
+
+File "game/tl/spanish_latin_america/script-exclusives-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america yuri_exclusive_1_e440bb66:
+                                                              ^
+
+File "game/tl/spanish_latin_america/script-exclusives2-natsuki.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america natsuki_exclusive2_1_f5f51468:
+                                                                  ^
+
+File "game/tl/spanish_latin_america/script-exclusives2-yuri.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america yuri_exclusive2_1_e440bb66:
+                                                               ^
+
+File "game/tl/spanish_latin_america/script-poemresponses.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america poemresponse_start2_aa080a54:
+                                                                 ^
+
+File "game/tl/spanish_latin_america/script-poemresponses2.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ch22_y_end_709da3c5:
+                                                        ^
+
+File "game/tl/spanish_latin_america/script-s1.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america s1_main_a0ad62e3:
+                                                     ^
+
+File "game/tl/spanish_latin_america/sm.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america sm1_90de9c4d:
+                                                 ^
+
+File "game/tl/spanish_latin_america/sn.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america sn1_d9483336:
+                                                 ^
+
+File "game/tl/spanish_latin_america/splash.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america DDLC_splashscreen_f490803a:
+                                                               ^
+
+File "game/tl/spanish_latin_america/sy.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america sy1_035ba6dc:
+                                                 ^
+
+File "game/tl/spanish_latin_america/ym.rpy", line 4: translate statement expects a non-empty block.
+    translate spanish_latin_america ym1_e09c4d73:
+                                                 ^
+
+Ren'Py Version: Ren'Py 8.5.0.25111603
+Fri Dec 12 09:40:56 2025

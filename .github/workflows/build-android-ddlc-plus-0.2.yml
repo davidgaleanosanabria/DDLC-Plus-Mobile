@@ -27,8 +27,14 @@ jobs:
               -e 's/^(\s+)H y\s*$/\1show yuri at thide zorder 1\n\1hide yuri/' \
               "$f"
           done
-          echo "Líneas S/H sin convertir:"
-          grep -cE "^\s+(S|H) [a-z]" *.rpy | grep -v ":0" || echo "ninguna"
+
+      - name: Generar keystore de firma
+        run: |
+          keytool -genkeypair \
+            -keystore "$GITHUB_WORKSPACE/android.keystore" \
+            -alias android -keyalg RSA -keysize 2048 -validity 10000 \
+            -storepass android -keypass android \
+            -dname "CN=DDLC Plus Mobile, O=Local, C=US"
 
       - name: Compilar APK
         run: |

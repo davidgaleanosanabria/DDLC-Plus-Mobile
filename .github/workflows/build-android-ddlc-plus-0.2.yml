@@ -1,0 +1,46 @@
+name: Build Android APK
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 90
+
+    steps:
+      - name: Clonar repo
+        uses: actions/checkout@v5
+
+      - name: Configurar Java
+        uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Descargar Ren'Py SDK
+        run: |
+          cd "$RUNNER_TEMP"
+          wget -q https://www.renpy.org/dl/8.4.1/renpy-8.4.1-sdk.tar.bz2
+          tar -xjf renpy-8.4.1-sdk.tar.bz2
+
+      - name: Compilar APK
+        run: |
+          "$RUNNER_TEMP/renpy-8.4.1-sdk/renpy.sh" launcher distribute "$GITHUB_WORKSPACE" --package android
+
+      - name: Recoger APK
+        run: |
+          mkdir -p "$GITHUB_WORKSPACE/apk-out"
+          find /home/runner/work -name "*.apk" -not -path "*/apk-out/*" -exec cp {} "$GITHUB_WORKSPACE/apk-out/" \;
+          ls -la "$GITHUB_WORKSPACE/apk-out"
+          if [ -z "$(ls -A "$GITHUB_WORKSPACE/apk-out")" ]; then
+            echo "No se encontró ningún APK"
+            exit 1
+          fi
+
+      - name: Subir APK
+        uses: actions/upload-artifact@v5
+        with:
+          name: DDLC-Plus-Mobile-apk
+          path: apk-out/
+          if-no-files-found: error

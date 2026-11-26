@@ -12,31 +12,22 @@ jobs:
       - name: Clonar repo
         uses: actions/checkout@v5
 
-      - name: Configurar Java
-        uses: actions/setup-java@v5
-        with:
-          distribution: temurin
-          java-version: '17'
-
-      - name: Descargar Ren'Py SDK
-        run: |
-          cd "$RUNNER_TEMP"
-          wget -q https://www.renpy.org/dl/8.4.1/renpy-8.4.1-sdk.tar.bz2
-          tar -xjf renpy-8.4.1-sdk.tar.bz2
-
       - name: Compilar APK
         run: |
-          SDK="$RUNNER_TEMP/renpy-8.4.1-sdk"
-          cp -r "$GITHUB_WORKSPACE" "$SDK/ddlcplus"
-          cd "$SDK"
-          ./renpy.sh launcher distribute ddlcplus --package android
+          mkdir -p "$RUNNER_TEMP/build"
+          docker run --rm \
+            -v "$GITHUB_WORKSPACE:/game" \
+            -v "$RUNNER_TEMP/build:/build" \
+            dinaki/renpy:android \
+            sh renpy.sh launcher android_build /game --destination /build
+          ls -laR "$RUNNER_TEMP/build"
 
       - name: Recoger APK
         run: |
-          mkdir -p "$GITHUB_WORKSPACE/apk-out"
-          find /home/runner/work -name "*.apk" -not -path "*/apk-out/*" -exec cp {} "$GITHUB_WORKSPACE/apk-out/" \;
-          ls -la "$GITHUB_WORKSPACE/apk-out"
-          if [ -z "$(ls -A "$GITHUB_WORKSPACE/apk-out")" ]; then
+          mkdir -p apk-out
+          find "$RUNNER_TEMP/build" -name "*.apk" -exec cp {} apk-out/ \;
+          ls -la apk-out
+          if [ -z "$(ls -A apk-out)" ]; then
             echo "No se encontró ningún APK"
             exit 1
           fi

@@ -12,6 +12,24 @@ jobs:
       - name: Clonar repo
         uses: actions/checkout@v5
 
+      - name: Convertir sentencias S/H a show/hide
+        run: |
+          cd "$GITHUB_WORKSPACE/game"
+          for f in *.rpy; do
+            sed -i -E \
+              -e 's/^(\s+)S m ([0-9a-z]+) ([ft][0-9]{2})\s*$/\1show monika \2 at \3 zorder 2/' \
+              -e 's/^(\s+)S n ([0-9a-z]+) ([ft][0-9]{2})\s*$/\1show natsuki \2 at \3 zorder 2/' \
+              -e 's/^(\s+)S s ([0-9a-z]+) ([ft][0-9]{2})\s*$/\1show sayori \2 at \3 zorder 2/' \
+              -e 's/^(\s+)S y ([0-9a-z]+) ([ft][0-9]{2})\s*$/\1show yuri \2 at \3 zorder 2/' \
+              -e 's/^(\s+)H m\s*$/\1show monika at thide zorder 1\n\1hide monika/' \
+              -e 's/^(\s+)H n\s*$/\1show natsuki at thide zorder 1\n\1hide natsuki/' \
+              -e 's/^(\s+)H s\s*$/\1show sayori at thide zorder 1\n\1hide sayori/' \
+              -e 's/^(\s+)H y\s*$/\1show yuri at thide zorder 1\n\1hide yuri/' \
+              "$f"
+          done
+          echo "Líneas S/H sin convertir:"
+          grep -cE "^\s+(S|H) [a-z]" *.rpy | grep -v ":0" || echo "ninguna"
+
       - name: Compilar APK
         run: |
           mkdir -p "$RUNNER_TEMP/build"

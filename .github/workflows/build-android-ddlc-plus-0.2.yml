@@ -26,7 +26,10 @@ jobs:
 
       - name: Compilar APK
         run: |
-          "$RUNNER_TEMP/renpy-8.4.1-sdk/renpy.sh" launcher distribute "$GITHUB_WORKSPACE" --package android
+          SDK="$RUNNER_TEMP/renpy-8.4.1-sdk"
+          cp -r "$GITHUB_WORKSPACE" "$SDK/ddlcplus"
+          cd "$SDK"
+          ./renpy.sh ddlcplus distribute --package android
 
       - name: Recoger APK
         run: |

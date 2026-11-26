@@ -3,14 +3,14 @@
     "google_play_key": null,
     "google_play_salt": null,
     "heap_size": "16",
-    "icon_name": "DDLC",
+    "icon_name": "DDLC Plus",
     "include_pil": false,
     "include_sqlite": false,
     "layout": null,
-    "name": "Doki Doki Literature Club!",
+    "name": "DDLC Plus Mobile",
     "numeric_version": 1,
     "orientation": "sensorLandscape",
-    "package": "com.serenityforge.dokidokiliteratureclub",
+    "package": "com.localplus.ddlcplusmobile",
     "permissions": [
         "VIBRATE",
         "INTERNET"
